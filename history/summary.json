@@ -4,7 +4,7 @@
     "url": "https://kids-box-1.tttwonder.com/",
     "icon": "https://favicons.githubusercontent.com/kids-box-1.tttwonder.com",
     "slug": "kids-box-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 2344,
     "timeYear": 2768,
     "dailyMinutesDown": {
+      "2021-10-08": 0,
       "2021-10-03": 19,
       "2021-09-24": 19,
       "2021-09-18": 17,

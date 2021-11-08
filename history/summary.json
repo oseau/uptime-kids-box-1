@@ -6,17 +6,17 @@
     "slug": "kids-box-1",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.39%",
-    "time": 2841,
-    "timeDay": 7343,
-    "timeWeek": 4800,
-    "timeMonth": 3600,
-    "timeYear": 2841,
+    "time": 2840,
+    "timeDay": 7400,
+    "timeWeek": 4783,
+    "timeMonth": 3599,
+    "timeYear": 2840,
     "dailyMinutesDown": {
-      "2021-11-07": 40,
+      "2021-11-07": 26,
       "2021-11-06": 16,
       "2021-11-03": 55,
       "2021-11-02": 34,
@@ -87,7 +87,8 @@
       "2020-12-17": 18,
       "2020-12-10": 21,
       "2020-12-08": 26,
-      "2020-12-07": 27
+      "2020-12-07": 27,
+      "2020-12-06": 16
     }
   }
 ]

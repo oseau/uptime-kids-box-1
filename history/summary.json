@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/kids-box-1.tttwonder.com",
     "slug": "kids-box-1",
     "status": "down",
-    "uptime": "63.27%",
+    "uptime": "63.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.39%",
-    "time": 2625,
+    "uptimeYear": "44.13%",
+    "time": 2617,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2763,
+    "timeYear": 2768,
     "dailyMinutesDown": {
-      "2022-06-13": 87,
+      "2022-06-14": 104,
+      "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
@@ -254,8 +255,7 @@
       "2021-06-29": 135,
       "2021-06-18": 17,
       "2021-06-17": 33,
-      "2021-06-15": 25,
-      "2021-06-14": 89
+      "2021-06-15": 25
     }
   }
 ]

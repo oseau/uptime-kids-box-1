@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kids-box-1.tttwonder.com.ico",
     "slug": "kids-box-1",
     "status": "down",
-    "uptime": "52.18%",
+    "uptime": "52.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.30%",
-    "time": 3001,
+    "uptimeYear": "12.02%",
+    "time": 2988,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3224,
+    "timeYear": 3246,
     "dailyMinutesDown": {
-      "2022-10-09": 110,
+      "2022-10-10": 116,
+      "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
@@ -342,8 +343,7 @@
       "2021-11-06": 16,
       "2021-11-03": 55,
       "2021-11-02": 34,
-      "2021-10-27": 25,
-      "2021-10-10": 22
+      "2021-10-27": 25
     }
   }
 ]
